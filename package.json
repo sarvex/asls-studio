@@ -16,7 +16,7 @@
     "docs:build": "npm run docs:manual:build & npm run docs:dev:ui:build & npm run docs:dev:core:build"
   },
   "dependencies": {
-    "axios": "^0.26.1",
+    "axios": "^0.28.0",
     "core-js": "^3.6.4",
     "lodash": "^4.17.21",
     "raw-loader": "^4.0.2",
